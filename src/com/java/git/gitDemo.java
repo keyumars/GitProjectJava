@@ -7,6 +7,7 @@ public class gitDemo {
 		System.out.println("Git repository.");
 		System.out.println("GitHub Desktop.");
 		System.out.println("EGit push.");
+		System.out.println("GitHub Desktop. 2nd push.");
 
 	}
 
