@@ -1,4 +1,4 @@
-package com.selenium.git.project.gitproject;
+package com.java.git;
 
 public class gitDemo {
 
@@ -6,6 +6,7 @@ public class gitDemo {
 		// TODO Auto-generated method stub
 		System.out.println("Git repository.");
 		System.out.println("GitHub Desktop.");
+		System.out.println("EGit push.");
 
 	}
 
