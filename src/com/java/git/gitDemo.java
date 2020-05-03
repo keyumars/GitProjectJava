@@ -4,17 +4,12 @@ public class gitDemo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Git repository.");
-		System.out.println("GitHub Desktop.");
-		System.out.println("EGit push.");
-		System.out.println("GitHub Desktop. 2nd push.");
-		System.out.println("EGit push. 2nd push");
-		System.out.println("GitHub Desktop. 3rd push.");
-		System.out.println("GitHub Desktop. 4th push.");
 		
 		System.out.println("EGit push. 3rd push");
 		
 		System.out.println("GitHub Desktop. Branch push.");
+		
+		System.out.println("GitBash push. 1st push");
 
 	}
 
