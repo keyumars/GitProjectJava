@@ -10,6 +10,8 @@ public class gitDemo {
 		System.out.println("GitHub Desktop. Branch push.");
 		
 		System.out.println("GitBash push. 1st push");
+		
+		System.out.println("GitBash push. 2nd push");
 
 	}
 
